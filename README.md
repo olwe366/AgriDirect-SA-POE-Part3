@@ -3,7 +3,7 @@
 A multi-page B2B marketplace concept connecting South African smallholder farmers with commercial buyers, built with plain HTML, CSS and JavaScript (no frameworks, no build step). This is the complete WEDE5020 Web Development submission, covering **Part 1** (semantic structure), **Part 2** (CSS styling & responsive layout) and **Part 3** (dynamic JavaScript & form validation).
 
 > **Live site:** https://deft-kleicha-aa9f0d.netlify.app/
-> **Repository:** https://github.com/olwe366/AgriDirectSA-Part-2
+> **Repository:** https://github.com/olwe366/AgriDirect-SA-POE-Part3.git
 
 ---
 
