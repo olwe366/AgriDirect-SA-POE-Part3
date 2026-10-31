@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://olwe366.github.io/AgriDirectSA-Part-2/sitemap.xml
